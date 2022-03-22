@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     },
   });
 
-export default function Profile() {
+export default function Money() {
     const history = useNavigate();
     const profile = () => {
         history("/Profile")
