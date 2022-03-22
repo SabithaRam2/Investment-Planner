@@ -35,7 +35,7 @@ return(
 );
 }
 
-export default function FAQ() {
+export default function Story() {
 
     const [resdata,setData]=React.useState();
 
