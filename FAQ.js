@@ -16,7 +16,7 @@ return(
 );
 }
  
-export default function Longtermlist() {
+export default function FAQ() {
  
     const [resdata,setData]=React.useState();
  
